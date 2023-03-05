@@ -617,10 +617,12 @@ section {
 }
 
 .why-us .box p {
-  color: #aaaaaa;
+  color: #000000;
   font-size: 15px;
   margin: 0;
   padding: 0;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .why-us .box:hover {
